@@ -1,9 +1,16 @@
 .Banner {
   background-color: #0f2d37;
   height: 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .Banner h2 {
@@ -17,7 +24,9 @@
 }
 
 .Arrow {
-  align-self: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
 	height: 27px;
 	background: #767676;
 	border-radius: 50%;

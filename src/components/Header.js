@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Header.css';
+import './HeaderParsed.css';
 import headerImage from '../images/headerImage.jpg';
 
 const BackroundImg = {

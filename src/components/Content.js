@@ -1,7 +1,7 @@
 import React from 'react';
 import Fragment from 'render-fragment';
 
-import './Content.css';
+import './ContentParsed.css';
 import {greatThings} from '../data/greatThings'
 import stukentLogo2 from '../images/stukentLogo2.png';
 

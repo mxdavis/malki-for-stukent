@@ -1,7 +1,7 @@
 import React from 'react';
 import Fragment from 'render-fragment';
 
-import './Navbar.css';
+import './NavbarParsed.css';
 import stukentLogo from '../images/stukentLogo.png';
 
 export const Navbar = () => (

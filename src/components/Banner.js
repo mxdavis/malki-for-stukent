@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Banner.css';
+import './BannerParsed.css';
 import arrowWhite from '../images/arrowWhite.png';
 
 export const Banner = () => (
