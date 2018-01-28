@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './HeaderParsed.css';
-import headerImage from '../images/headerImage.jpg';
+import headerImage from '../../images/headerImage.jpg';
 
 const BackroundImg = {
   backgroundImage: `url(${headerImage})`

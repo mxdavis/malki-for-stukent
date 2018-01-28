@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './BannerParsed.css';
-import arrowWhite from '../images/arrowWhite.png';
+import arrowWhite from '../../images/arrowWhite.png';
 
 export const Banner = () => (
   <div className="Banner">

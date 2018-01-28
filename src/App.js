@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
 import './App.css';
-import {Banner} from './components/Banner'
-import {Content} from './components/Content'
-import {Footer} from './components/Footer'
-import {Header} from './components/Header'
-import {Navbar} from './components/Navbar'
+import {Banner} from './components/Banner/Banner'
+import {Content} from './components/Content/Content'
+import {Footer} from './components/Footer/Footer'
+import {Header} from './components/Header/Header'
+import {Navbar} from './components/Navbar/Navbar'
 
 class App extends Component {
   render() {

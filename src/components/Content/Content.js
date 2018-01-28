@@ -2,8 +2,8 @@ import React from 'react';
 import Fragment from 'render-fragment';
 
 import './ContentParsed.css';
-import {greatThings} from '../data/greatThings'
-import stukentLogo2 from '../images/stukentLogo2.png';
+import {greatThings} from '../../data/greatThings'
+import stukentLogo2 from '../../images/stukentLogo2.png';
 
 
 export const Content = () => (
