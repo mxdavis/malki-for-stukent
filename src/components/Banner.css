@@ -13,11 +13,13 @@
   text-align: center;
   font-size: 285.7%;
   color: #d6d6d6;
+  padding-top: 10px;
   padding-bottom: 30px;
 }
 
 .Arrow {
-  align-self: center;
+  position: absolute;
+  top: 880px;
 	height: 27px;
 	background: #767676;
 	border-radius: 50%;
@@ -28,37 +30,23 @@
 @media screen and (max-width: 1108px) {
   .Banner h2 {
     font-size: 270%;
-    padding-bottom: 35px;
   }
 }
 
-@media screen and (max-width: 1045px) {
-  .Banner h2 {
-    font-size: 270%;
-    padding-bottom: 20px;
-    margin-bottom: 0px;
-  }
-}
-
-@media screen and (max-width: 566px) {
-  .Banner h2 {
-    margin-top: 0px;
-    padding-bottom: 10px;
-  }
-}
-
-@media screen and (max-width: 434px) {
+@media screen and (max-width: 580px) {
   .Banner h2 {
     font-size: 240%;
-    margin-top: 15px;
-    padding-bottom: 10px;
   }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 506px) {
+  .Banner h2 {
+    font-size: 220%;
+  }
+}
+
+@media screen and (max-width: 400px) {
   .Banner h2 {
     font-size: 200%;
-    margin-top: 20px;
-    padding-bottom: 20px;
   }
 }
