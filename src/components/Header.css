@@ -1,0 +1,53 @@
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;;
+
+}
+
+.HeaderText > h1 {
+  letter-spacing: -0.017em;
+  color: #fff;
+  font-family: "Lato",sans-serif;
+  font-weight: 400;
+  font-size: 400%;
+  line-height: 1.1;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-transform: uppercase;
+}
+
+.Button {
+  border: 3px solid #2698b5;
+  border-radius: 0.225em;
+  color: #fff;
+  background-color: transparent;
+  margin-top: 5%;
+  text-decoration: none;
+}
+
+.Button:hover{
+  border-color: #036;
+}
+
+.Button p {
+  text-align: center;
+  color: #fff;
+  font-family: "Lato",sans-serif;
+  font-weight: 400;
+  font-size: 125%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media screen and (max-width: 765px) {
+  .HeaderText > h1 {
+    font-size: 300%;
+  }
+}

@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Header correctly 1`] = `
+<header
+  style={
+    Object {
+      "backgroundImage": "url(headerImage.jpg)",
+    }
+  }
+>
+  <div
+    className="HeaderText"
+  >
+    <h1>
+      Malki can help Stukent teach the world digital marketing. 
+    </h1>
+  </div>
+  <a
+    className="Button"
+    href="mailto:md01@me.com?Subject=We%20want%20you%20to%20join%20Stukent!"
+    target="_top"
+  >
+    <p>
+      REQUEST MALKI
+    </p>
+  </a>
+</header>
+`;
