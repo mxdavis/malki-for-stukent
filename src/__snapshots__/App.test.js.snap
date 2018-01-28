@@ -115,5 +115,42 @@ exports[`Should render App correctly 1`] = `
       </h3>
     </div>
   </div>
+  <footer>
+    <li>
+      <a
+        href="http://www.malki.rocks/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        BLOG
+      </a>
+    </li>
+    <li>
+      <a
+        href="https://github.com/mxdavis/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        GITHUB
+      </a>
+    </li>
+    <li>
+      <a
+        href="https://www.linkedin.com/in/malki-davis/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        LINKED IN
+      </a>
+    </li>
+    <li>
+      <a
+        href="mailto:md01@me.com"
+        target="_top"
+      >
+        CONTACT
+      </a>
+    </li>
+  </footer>
 </div>
 `;
