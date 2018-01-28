@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Banner correctly 1`] = `
+<div
+  className="Banner"
+>
+  <h2>
+    SEE HOW MALKI CAN MAKE STUKENT'S LIFE EASIER
+  </h2>
+  <img
+    alt="down arrow"
+    className="Arrow"
+    src="arrowWhite.png"
+  />
+</div>
+`;

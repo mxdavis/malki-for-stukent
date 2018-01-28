@@ -37,5 +37,17 @@ exports[`Should render App correctly 1`] = `
       </p>
     </a>
   </header>
+  <div
+    className="Banner"
+  >
+    <h2>
+      SEE HOW MALKI CAN MAKE STUKENT'S LIFE EASIER
+    </h2>
+    <img
+      alt="down arrow"
+      className="Arrow"
+      src="arrowWhite.png"
+    />
+  </div>
 </div>
 `;
