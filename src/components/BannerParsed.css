@@ -57,3 +57,9 @@
     font-size: 200%;
   }
 }
+
+@media screen and (max-width: 350px) {
+  .Banner h2 {
+    font-size: 180%;
+  }
+}
