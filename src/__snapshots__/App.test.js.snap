@@ -49,5 +49,71 @@ exports[`Should render App correctly 1`] = `
       src="arrowWhite.png"
     />
   </div>
+  <div
+    className="Content"
+  >
+    <h1>
+       Hi 
+      <span
+        aria-label="Wave"
+        role="img"
+      >
+        👋
+      </span>
+       I'm Malki and I would be a great fit for 
+      <img
+        alt="StukentLogo"
+        height="130px"
+        src="stukentLogo2.png"
+      />
+       
+    </h1>
+    <div
+      className="InnerContent"
+    >
+      <img
+        alt="code.png"
+        src="../images/code.png"
+      />
+      <h3>
+        I love to code, and I'm good at it.
+      </h3>
+      <img
+        alt="ideas.png"
+        src="../images/ideas.png"
+      />
+      <h3>
+        I'm a fast learner and I'm excited to learn new things.
+      </h3>
+      <img
+        alt="team.png"
+        src="../images/team.png"
+      />
+      <h3>
+        I'm an excellent team player and colleague.
+      </h3>
+      <img
+        alt="personality.png"
+        src="../images/personality.png"
+      />
+      <h3>
+        I have a fun personality and great values.
+      </h3>
+      <img
+        alt="success.png"
+        src="../images/success.png"
+      />
+      <h3>
+        I work against the odds. I don't give up until I figure it out.
+      </h3>
+      <img
+        alt="reactRuby.png"
+        src="../images/reactRuby.png"
+      />
+      <h3>
+        Ruby on Rails and React/Redux are my specialties.
+      </h3>
+    </div>
+  </div>
 </div>
 `;
