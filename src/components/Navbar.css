@@ -1,0 +1,13 @@
+.Navbar-top {
+  min-height: 46px;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+nav {
+  display: grid;
+}
+
+nav > img {
+  padding: 40px;
+  width: 150px;
+}

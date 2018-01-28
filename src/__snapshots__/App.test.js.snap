@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render App correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="Navbar-top"
+  />
+  <nav>
+    <img
+      alt="stukent"
+      src="stukentLogo.png"
+    />
+  </nav>
+</div>
+`;
